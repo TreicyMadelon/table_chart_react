@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1,
+      "gender": "Female",
+      "first_name": "Helen",
+      "last_name": "Nguyen",
+      "email": "hnguyen0@bloomberg.com",
+      "ip_address": "227.211.25.18",
+      "value": "100"
+    }, 
+    {
+      "id": 2,
+      "gender": "Male",
+      "first_name": "Carlos",
+      "last_name": "Fowler",
+      "email": "cfowler1@gnu.org",
+      "ip_address": "214.248.201.11",
+      "value": "400"
+    },
+    {
+      "id": 3,
+      "gender": "Female",
+      "first_name": "Carol",
+      "last_name": "Fowler",
+      "email": "cfowler1@gnu.org",
+      "ip_address": "214.248.201.11",
+      "value": "200"
+    },
+    {
+      "id": 4,
+      "gender": "Male",
+      "first_name": "Lucas",
+      "last_name": "Fowler",
+      "email": "cfowler1@gnu.org",
+      "ip_address": "214.248.201.11",
+      "value": "150"
+    }
+]
